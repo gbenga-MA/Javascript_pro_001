@@ -1,0 +1,11 @@
+// Global Variables //
+
+
+var outerWear = "Mink Jacket is $400";
+function myOutfit(){
+    var outerWear = "New Mink Jacket is $850"
+    return outerWear;
+}
+console.log(myOutfit());
+console.log(outerWear);
+
