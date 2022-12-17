@@ -1,8 +1,0 @@
-function arrayFacts(newArray){
-   if (newArray){ 
-    return "Yes, its a new Array";
-   }
-   return "No, its an old Array";
-}
-arrayFacts(true);
-arrayFacts(false);
