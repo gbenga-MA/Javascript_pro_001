@@ -1,1 +1,1 @@
-A smiple Algorithm on JS
+A smiple Algorithm on JAVASCRIPT
